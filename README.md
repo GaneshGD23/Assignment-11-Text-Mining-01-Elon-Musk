@@ -1,11 +1,12 @@
 # Assignment-11-Text-Mining-01-Elon-Musk
+
 Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
 
 Text Preprocessing:
 
-   1.remove both the leading and the trailing characters
+     1.remove both the leading and the trailing characters
  
-   2.removes empty strings, because they are considered in Python as False
+     2.removes empty strings, because they are considered in Python as False
  
 Joining the list into one string/text
 
@@ -31,11 +32,11 @@ Lemmatization
 
 Feature Extaction
 
-   1.Using BoW CountVectorizer
+     1.Using BoW CountVectorizer
  
-   2.CountVectorizer with N-grams (Bigrams & Trigrams)
+     2.CountVectorizer with N-grams (Bigrams & Trigrams)
  
-   3.TF-IDF Vectorizer
+     3.TF-IDF Vectorizer
  
 Generate Word Cloud
 

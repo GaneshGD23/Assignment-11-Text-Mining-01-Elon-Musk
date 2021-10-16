@@ -1,10 +1,11 @@
 # Assignment-11-Text-Mining-01-Elon-Musk
-erform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
+Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
 
 Text Preprocessing:
 
-remove both the leading and the trailing characters
-removes empty strings, because they are considered in Python as False
+ 1.remove both the leading and the trailing characters
+ 2.removes empty strings, because they are considered in Python as False
+ 
 Joining the list into one string/text
 
 Remove Twitter username handles from a given twitter text. (Removes @usernames)
@@ -29,9 +30,10 @@ Lemmatization
 
 Feature Extaction
 
-Using BoW CountVectorizer
-CountVectorizer with N-grams (Bigrams & Trigrams)
-TF-IDF Vectorizer
+ 1.Using BoW CountVectorizer
+ 2.CountVectorizer with N-grams (Bigrams & Trigrams)
+ 3.TF-IDF Vectorizer
+ 
 Generate Word Cloud
 
 Named Entity Recognition (NER)
